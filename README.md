@@ -40,5 +40,7 @@ Ce projet est en phase de conception et de pilote. Les mécanismes décrits rest
 
 ## Licence
 
-Ce contenu est publié sous licence [CC BY 4.0](LICENSE) — vous pouvez le partager et l'adapter librement, à condition de créditer l'auteur original.
+Ce contenu est publié sous licence [CC BY-NC-SA 4.0](LICENSE) — vous pouvez le partager et l'adapter librement pour un usage **non commercial**, à condition de créditer l'auteur original et de partager toute adaptation sous la même licence.
+
+**Usage commercial** — toute exploitation commerciale du protocole, de la marque "Scaleval", ou des services/infrastructures dérivés (Foundation, registre, accréditation) nécessite un accord de licence séparé avec l'auteur. Contact : mavoungoufred1@gmail.com
 
