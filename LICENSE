@@ -1,136 +1,59 @@
 Scaleval — documentation and protocol texts
 Copyright (c) 2026 Fred MEKAME MAVOUNGOU
 
-This work is licensed under the Creative Commons Attribution 4.0
-International License (CC BY 4.0).
+This work is licensed under the Creative Commons Attribution-NonCommercial-
+ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 
 To view a copy of this license, visit
-https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 or send a letter to Creative Commons, PO Box 1866, Mountain View,
 CA 94042, USA.
 
 You are free to:
   - Share — copy and redistribute the material in any medium or format
   - Adapt — remix, transform, and build upon the material
-  for any purpose, even commercially.
 
 Under the following terms:
-  - Attribution — You must give appropriate credit, provide a link to
-    the license, and indicate if changes were made. You may do so in
-    any reasonable manner, but not in any way that suggests the
-    licensor endorses you or your use.
+  - Attribution — You must give appropriate credit to Fred MEKAME MAVOUNGOU as the
+    original creator of Scaleval, provide a link to this license, and
+    indicate if changes were made. You may do so in any reasonable
+    manner, but not in any way that suggests the licensor endorses you
+    or your use.
+  - NonCommercial — You may not use the material for commercial
+    purposes without prior written permission from the licensor.
+    Commercial use, licensing, and partnership inquiries: mavoungoufred1@gmail.com
+  - ShareAlike — If you remix, transform, or build upon the material,
+    you must distribute your contributions under the same license as
+    the original.
   - No additional restrictions — You may not apply legal terms or
     technological measures that legally restrict others from doing
     anything the license permits.
 
 No warranties are given. The license may not give you all of the
-permissions necessary for your intended use.
+permissions necessary for your intended use — for example, other
+rights such as publicity, privacy, or moral rights may limit how you
+use the material.
 
 ===============================================================================
-FULL LEGAL CODE
+COMMERCIAL USE
 ===============================================================================
 
-Attribution 4.0 International
+The "Scaleval" name, and any commercial exploitation of this protocol,
+its infrastructure, or derived services (including but not limited to
+the Scaleval Foundation, registry services, accreditation, or branded
+tools), require a separate license agreement with the original author.
+Contact: mavoungoufred1@gmail.com
 
-Creative Commons Corporation ("Creative Commons") is not a law firm and
-does not provide legal services or legal advice. Distribution of Creative
-Commons public licenses does not create a lawyer-client or other
-relationship. Creative Commons makes its licenses and related information
-available on an "as-is" basis. Creative Commons gives no warranties
-regarding its licenses, any material licensed under their terms and
-conditions, or any related information. Creative Commons disclaims all
-liability for damages resulting from their use to the fullest extent
-possible.
+===============================================================================
+FULL LEGAL CODE (SUMMARY — see canonical URL for the complete text)
+===============================================================================
 
-Using Creative Commons Public Licenses
+This license is one of Creative Commons' seven core licenses, combining
+Attribution (BY), NonCommercial (NC), and ShareAlike (SA) conditions on
+top of the base terms shared by all CC public licenses (definitions,
+scope of the license grant, disclaimer of warranties, term and
+termination, and interpretation) — structurally identical to the
+Attribution 4.0 International license, with the addition of the
+NonCommercial and ShareAlike conditions described above.
 
-Creative Commons public licenses provide a standard set of terms and
-conditions that creators and other rights holders may use to share
-original works of authorship and other material subject to copyright and
-certain other rights specified in the public license below.
-
-Section 1 – Definitions.
-
-a. Adapted Material means material subject to Copyright and Similar
-   Rights that is derived from or based upon the Licensed Material and
-   in which the Licensed Material is translated, altered, arranged,
-   transformed, or otherwise modified in a manner requiring permission
-   under the Copyright and Similar Rights held by the Licensor.
-b. Adapter's License means the license You apply to Your Copyright and
-   Similar Rights in Your contributions to Adapted Material.
-c. Copyright and Similar Rights means copyright and/or similar rights
-   closely related to copyright.
-d. Effective Technological Measures means measures that may not be
-   circumvented under laws fulfilling obligations under Article 11 of
-   the WIPO Copyright Treaty.
-e. Exceptions and Limitations means fair use, fair dealing, and/or any
-   other exception or limitation to Copyright and Similar Rights that
-   applies to Your use of the Licensed Material.
-f. Licensed Material means the artistic or literary work, database, or
-   other material to which the Licensor applied this Public License.
-g. Licensed Rights means the rights granted to You subject to the terms
-   and conditions of this Public License.
-h. Licensor means the individual(s) or entity(ies) granting rights under
-   this Public License.
-i. Share means to provide material to the public by any means or process
-   requiring permission under the Licensed Rights.
-j. Sui Generis Database Rights means rights other than copyright
-   resulting from Directive 96/9/EC, as amended and/or succeeded.
-k. You means the individual or entity exercising the Licensed Rights.
-
-Section 2 – Scope.
-
-a. License grant. The Licensor grants You a worldwide, royalty-free,
-   non-sublicensable, non-exclusive, irrevocable license to reproduce
-   and Share the Licensed Material, and to produce, reproduce, and Share
-   Adapted Material.
-b. Exceptions and Limitations apply to Your use where relevant; this
-   license does not apply to those uses.
-c. Term: specified in Section 6(a).
-d. Media and formats; technical modifications allowed.
-e. Downstream recipients receive an offer from the Licensor automatically;
-   no downstream restrictions may be imposed; no endorsement is implied.
-f. Other rights: moral rights, publicity and privacy rights, patent and
-   trademark rights are not licensed under this Public License.
-
-Section 3 – License Conditions.
-
-a. Attribution. If You Share the Licensed Material, You must retain
-   identification of the creator(s), a copyright notice, a notice
-   referring to this license, a notice referring to the disclaimer of
-   warranties, and a URI or hyperlink to the Licensed Material where
-   practicable; indicate if You modified the Licensed Material; and
-   indicate the Licensed Material is licensed under this Public License.
-
-Section 4 – Sui Generis Database Rights.
-
-Where applicable, database rights are treated consistently with the
-reproduction and attribution obligations above.
-
-Section 5 – Disclaimer of Warranties and Limitation of Liability.
-
-The Licensed Material is offered as-is and as-available, without
-warranties of any kind. The Licensor is not liable for any damages
-arising out of the use of the Licensed Material, to the extent possible
-under applicable law.
-
-Section 6 – Term and Termination.
-
-This license applies for the term of the Copyright and Similar Rights
-licensed here. It terminates automatically upon failure to comply, and
-reinstates automatically once the violation is cured, or upon express
-reinstatement by the Licensor.
-
-Section 7 – Other Terms and Conditions.
-
-The Licensor is not bound by additional terms communicated by You unless
-expressly agreed.
-
-Section 8 – Interpretation.
-
-This Public License does not reduce, limit, or restrict any use of the
-Licensed Material that could lawfully be made without permission. If any
-provision is deemed unenforceable, it is reformed to the minimum extent
-necessary, or severed without affecting the remaining terms.
-
-Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+Full legal text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
